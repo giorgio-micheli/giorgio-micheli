@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Giorgio
-A passionate junior developer from Italy
+A passionate junior developer from Italy 🇮🇹
 
 - 🌱 I’m currently studying Computer Science at the **University of Pisa**
 - ⚡ Fun fact: I'm also a **Music Producer**!
