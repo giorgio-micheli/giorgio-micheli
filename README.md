@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/segfault.gif" alt="gcc segmentation fault" width="100%"/>
+<img src="assets/segfault2.gif" alt="gcc segmentation fault" width="100%"/>
 </div>
 
 ## Hi 👋🏻, I'm Giorgio
