@@ -8,6 +8,17 @@ I also have a good foundation in C and systems programming, which also represent
 
 - 🌱 Final year Computer Science student at the **University of Pisa**
 
+<br>
+
+### 📂 Public projects
+
+| Repository | Description | Tech stack |
+| --- | --- | --- |
+| [Runly](https://github.com/giorgio-micheli/runly) | Offline-first Android running tracker with live GPS tracking | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
+| [PillsOClock](https://github.com/giorgio-micheli/pillsoclock) | Android app for medication reminders | ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white) ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white) |
+
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/giorgio-micheli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="giorgiomicheli" height="30" width="40" /></a>
